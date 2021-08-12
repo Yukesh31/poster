@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+<link rel="stylesheet" href="css/bootstrap.min.css">
+<link rel="stylesheet" href="css/practise.css">
+</head>
+<body>
+  <div class="container">
+	  <div class="part1">
+		  <div class="header">
+		  <p>HOME </p><p>ABOUT </p><p>    ACHIEVEMENTS</p></div>
+		  <div class="name">
+	<h1 style="font-family: Georgia, 'Times New Roman', Times, serif; font-size: 70px;">Kazi Nazrul Islam</h1>
+	<h2>The national poet of Bangladesh</h2></div></div>
+	
+	<div class="part2">
+		<div class="part2cntnt">
+		
+			  
+		  <div class="content">
+		  <h2>Rebel Poet</h2>
+		  <p style="font-size: 20px;  font-weight: 400;">Kazi Nazrul Islam was a Bengali poet, musician and revolutionary who pioneered 
+			  poetic works espousing intense spiritual rebellion against fascism and oppression. 
+			  His poetry and nationalist activism earned him the popular title of Bidrohi Kobi (Rebel Poet).
+			   Accomplishing a large body of acclaimed works through his life, 
+			  Nazrul is officially recognised as the national poet of Bangladesh and commemorated in India.</p>
+			  <h2>Awesome Writer</h2>
+			  <p style="font-size: 20px;  font-weight: 400;">Nazrul's writings explore themes such as love, freedom, and revolution; he opposed all bigotry, including religious and gender. 
+				  Throughout his career, Nazrul wrote short stories, novels, and essays but is best-known for his poems,
+				   in which he pioneered new forms such as Bengali ghazals. 
+				  Nazrul wrote and composed music for his nearly 4,000 songs (including gramophone records), collectively known as Nazrul geeti</p></div>
+				  <img style="width: 300px; height: 500px; margin: 20px;" 
+				  src="https://images.prothomalo.com/prothomalo-english%2Fimport%2Fmedia%2F2014%2F05%2F29%2F5387333c00b6c-Nazrul-Islam.jpg?auto=format&fit=fill&bg=000000&q=35&w=1200"></div>
+				 <div class="buttons">
+					 <p style="height: 35px; padding-top: 2px;width: 150px;border-radius: 5px;color:black;font-weight: bold; background-color: grey; text-align: center; border: 2px solid grey;"><b></b>Learn More</b></p>
+					 <p style="height: 35px;padding-top: 2px; width: 150px;border-radius: 5px;color: white; background-color: crimson;font-weight: bold; text-align: center; border: 2px solid crimson;"><b></b>Videos</b></p>
+					 <p style="height: 35px;padding-top: 2px; width: 150px;border-radius: 5px;color: white; background-color: rgb(255, 123, 0);font-weight: bold; text-align: center; border: 1px solid rgb(255, 123, 0) ;"><b></b>Books</b></p>
+				 </div>
+	  </div>
+	<div class="part3">
+		<h2 style="text-align: center;font-family: Georgia, 'Times New Roman', Times, serif;color: white; padding: 50px;">"Love has no meaning or amount."-Kazi Nazrul Islam</h2>
+	</div>
+	<div class="part4">
+		
+		  <h2 style="text-align: center;">
+			<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor" class="bi bi-star-fill" viewBox="0 0 16 16">
+			<path d="M3.612 15.443c-.386.198-.824-.149-.746-.592l.83-4.73L.173 6.765c-.329-.314-.158-.888.283-.95l4.898-.696L7.538.792c.197-.39.73-.39.927 0l2.184 4.327 4.898.696c.441.062.612.636.282.95l-3.522 3.356.83 4.73c.078.443-.36.79-.746.592L8 13.187l-4.389 2.256z"/>
+		  </svg>AWARDS<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor" class="bi bi-star-fill" viewBox="0 0 16 16">
+			<path d="M3.612 15.443c-.386.198-.824-.149-.746-.592l.83-4.73L.173 6.765c-.329-.314-.158-.888.283-.95l4.898-.696L7.538.792c.197-.39.73-.39.927 0l2.184 4.327 4.898.696c.441.062.612.636.282.95l-3.522 3.356.83 4.73c.078.443-.36.79-.746.592L8 13.187l-4.389 2.256z"/>
+		</svg></h2>
+		<br><br>
+		<div class="awards">
+			<div style="width: 300px;padding:7px; height: 140px; border: 1px solid black;" class="gold">
+				<h4>Jagattarini Gold medal</h4>
+				<small>1945</small>
+				<p>from the University of Calculta for his work in Bengali</p>
+			</div>
+			<div style="width: 300px;padding:7px; height: 140px; border: 1px solid black;" class="gold">
+				<h4>Padma Bhushan</h4>
+				<small>1960</small>
+				<p>one of the highest civilian honours of India</p>
+			</div>
+			<div style="width: 300px;padding:7px; height: 140px; border: 1px solid black;" class="gold">
+				<h4>National Poet</h4>
+				<small> - </small>
+				<p>Conferred the title by the Goverment of Bangladesh</p>
+			</div>
+			<div style="width: 300px;padding:7px; height: 140px; border: 1px solid black;" class="gold">
+				<h4>Ekushey Padak</h4>
+				<small>1976</small>
+				<p>Bangladesh's highest civilian honours</p>
+			</div>
+		</div>
+		<br><br>
+		<div class="poets">
+			<div class="poetry">
+				<h2 style="text-align: center;">Poetry</h2>
+				<ul>
+					<li>Agni Bina (The Fiery Lute), 1922</li>
+				<li>Sanchita (Collected poems), 1925</li>
+			<li>Phanimanasa (The Cactus), 1927</li>
+		<li>Chakrabak (The Flamingo), 1929</li>
+	<li>	Satbhai Champa (The Seven Brothers of Champa), juvenile poems, 1933</li>
+<li>	Nirjhar (Fountain), 1939</li>
+    <li>Natun Chand (The New Moon), 1939</li>
+        <li>Morubhaskar (The Sun in the Desert), 1951</li>
+            <li>Sanchayan (Collected Poems), 1955</li>
+                <li>Nazrul Islam: Islami Kobita (A Collection of Islamic Poems; Dhaka, Bangladesh: Islamic Foundation, 1982)</li>
+				</ul>
+			</div>
+			<div class="poems">
+				<h2 style="text-align: center;">Poems and Songs</h2>
+				<ul>
+					<li>Dolan Chapa (name of a faintly fragrant monsoon flower), 1923</li>
+				<li>Bisher Bashi (The Poison Flute), 1924</li>
+			<li>	Bhangar Gan (The Song of Destruction), 1924 proscribe in 1924</li>
+		<li>		Chhayanat (The Raga of Chhayanat), 1925</li>
+	<li>			Chittanama (On Chittaranjan), 1925</li>
+<li>				Samyabadi (The Proclaimer of Equality), 1926</li>
+    <li>					Puber Hawa (The Eastern Wind), 1926</li>
+        <li>					Sarbahara (The Proletariat), 1926</li>
+            <li>					Sindhu Hindol (The Undulation of the Sea), 1927</li>
+              <li>					Jinjir (Chain), 1928</li>
+                 <li>					Pralaya Shikha (Doomsday Flame), 1930 proscribed in 1930</li>
+                     <li>					Shesh Saogat (The Last Offerings), 1958</li>
+				</ul>
+			</div>
+			
+		</div>
+	</div>
+	<div class="part5">
+
+		<div class="about">
+			<p><b>About the author</b></p>
+			<p>Made by Md.Abu Taher for a freecodecamp tribute challenge.</p></div>
+<div class="techs">
+	<p><b>Techs Used</b></p>
+	<p>Sementic UI</p></div>
+<div class="disclaimer">
+	<p><b>Content Disclaimer</b></p>
+	<p>The content of website is mostly copied from wikipedia.Original credits goes to respective authors. </p>
+</div>		
+	</div>
+
+
+</div>
+  <script src="js/jquery-3.6.0.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+</body>
+    
+</html>
+
+
+"CSS FILE":
+.container{
+    width: min-content;
+    height: 100%;
+    border: 2px solid black;
+}
+
+.name{
+    text-align: center;
+    margin-top: 250px;
+}
+.part1{
+    background-color: black;
+    color: white;
+    width:100%;
+    height: 700px;
+}
+.part2cntnt{
+  
+display: flex;
+flex-direction: row;
+}
+.content{
+    margin:20px;
+    display: flex;
+    flex-direction: column;
+}
+.header{
+    padding: 20px;
+    border: 1px solid black;
+    margin-left: 20px;
+    gap: 50px;
+    display: flex;
+    flex-direction: row;
+}
+.part2{
+    width:100%;
+    background-color:greenyellow;
+    height: 700px;
+}
+.part3{
+    width:100%;
+    background-color: black;
+    height: 150px;
+    
+}
+.part4{
+    width:100%;
+    background-color: greenyellow;
+    height:700px;
+}
+.part5{
+    width: 100%;
+    height: 200px;
+    color: white;
+    background-color:black;
+    display: flex;
+    gap: 20px;
+    padding: 20px;
+    
+    flex-direction: row;
+}
+.buttons{
+    display: flex;
+    flex-direction: row;
+    gap:20px;
+    padding: 20px;
+    margin-left: 300px;
+}
+.checked{
+    color:gold;
+}
+.awards{
+    display: flex;
+    flex-direction: row;
+    gap:10px;
+}
+.poetry{
+    width:50%;
+    height:min-content;
+    border: 1px solid white;
+}
+.poems{
+    width:50%;
+    height:min-content;
+    border: 1px solid white;
+}
+.poets{
+    display: flex;
+    flex-direction: row;
+}
+.about{
+    width:300px;
+    height:100px;
+    padding: 5px;
+    margin-left: 40px;
+    border: 1px solid black;
+}
+.techs{
+    width:200px;
+    height:100px;
+    padding: 5px;
+    border: 1px solid black;
+}
+.disclaimer{
+    width:400px;
+    height:100px;
+    padding: 5px;
+    border: 1px solid black;
+}
+/////////////////////
